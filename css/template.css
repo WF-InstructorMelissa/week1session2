@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    color: white;
+    min-height: 800px;
+}
+header, #main, footer {
+    background-color: red;
+    min-height: 200px;
+}
+#main {
+    min-height: 600px;
+}
+nav, .outside, h1, form {
+    background-color: blue;
+    min-height: 100px;
+}
+.inside, img, a {
+    background-color: green;
+    min-height: 75px;
+}
+.inner, h2, h3 {
+    background-color: orange;
+    min-height: 50px;
+}
+a {
+    color: white;
+    background-color: green;
+    min-height: 25px;
+}
+.outside p {
+    background-color: green;
+    min-height: 25px;
+}
+.inner p {
+    background-color: blueviolet;
+    min-height: 25px;
+}
