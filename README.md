@@ -5,6 +5,8 @@ Agenda
 2. HTML + CSS
 3. codepen link fork a copy for yourself- https://codepen.io/WolfsVeteran/pen/QWvNYdo
 
+New tool:
+http://jsbin.com/?html,output
 
 https://specificity.keegan.st/
 https://validator.w3.org/
