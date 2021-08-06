@@ -18,6 +18,7 @@
 ### VS Code keyboard shortcuts
 - alt + z = turns on word wrap
 - ctrl + / = creates that documents version of a comment
+- tab = when starting commands in terminal you can type 1st 3 letters and then tab and it usually will autocomplete for you
 
 ## CSS 
 - .main = class name called main
