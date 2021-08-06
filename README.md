@@ -8,3 +8,6 @@ Agenda
 https://specificity.keegan.st/
 https://validator.w3.org/
 https://css-tricks.com/
+
+Transparent background:
+https://www.transparenttextures.com/
