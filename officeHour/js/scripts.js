@@ -42,3 +42,7 @@ function newAvg(arr) {
     console.log(theAvg)
 }
 newAvg(arr)
+
+// var string = 'It\'s going to be a long day'
+// var altString = "It's going to be a long day"
+// var another = 'It's going to be a long day

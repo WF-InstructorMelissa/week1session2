@@ -1,0 +1,39 @@
+* {
+    border: 1px dotted red;
+}
+body {
+    background-color: #1a5321;
+    color: white;
+}
+#oddBall {
+    background-color: cornflowerblue;
+}
+img {
+    padding: 1em;
+    background-color: purple;
+    border: 3px groove blue;
+    margin: 1em;
+}
+footer {
+    background-color: bisque;
+    width: 75%;
+}
+p {
+    margin: 0;
+}
+.bookworm {
+    max-width: 300px;
+}
+.minecraft {
+    width: 25%;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+.imgs {
+    background-image: url('../images/asfalt-light.png');
+}
+.alt {
+    background-color: darkgrey;
+}
